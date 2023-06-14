@@ -1,0 +1,22 @@
+table {
+    border: solid black 2px;
+    background-color: bisque;
+    table-layout: auto;
+    width: 150px;
+    text-aligns: center;
+    border-collapse: collapse;
+}
+body{
+    background-color: azure;
+    padding: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+
+th {
+    border: solid black 2px;
+    background-color: antiquewhite;
+}
+td {
+    border: solid black 1px;
+}
